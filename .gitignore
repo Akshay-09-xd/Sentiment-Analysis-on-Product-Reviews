@@ -1,0 +1,16 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local environment and editor files
+.env
+.vscode/
+.idea/
+
+# Bundled archive duplicates the tracked project files
+Sentiment-Analysis.zip
